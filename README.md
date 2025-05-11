@@ -13,6 +13,9 @@
   <p>Connect and chat in real-time with a sleek, responsive interface powered by Spring Boot WebSockets.</p>
 </blockquote>
 
+<img src="Chat-Home.png" alt="Chat Application" >
+<img src="Chat.png" alt="Chat Application" >
+
 <h2>✨ Features</h2>
 
 <ul>
